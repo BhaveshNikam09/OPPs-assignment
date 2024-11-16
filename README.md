@@ -35,15 +35,15 @@ This repository contains two Jupyter notebooks focusing on key concepts and prac
  
    ##### Practical Implementations:
  
-   Vehicle and Car classes showcasing inheritance.
+     Vehicle and Car classes showcasing inheritance.
    
-   Employee, Manager, and Developer classes with hierarchical structure.
+     Employee, Manager, and Developer classes with hierarchical structure.
    
-   Shape, Rectangle, and Circle classes with specific attributes.
+     Shape, Rectangle, and Circle classes with specific attributes.
    
-   Device, Phone, and Tablet classes for understanding multi-level inheritance.
+     Device, Phone, and Tablet classes for understanding multi-level inheritance.
    
-   BankAccount, SavingsAccount, and CheckingAccount classes demonstrating polymorphism.
+     BankAccount, SavingsAccount, and CheckingAccount classes demonstrating polymorphism.
 
 
 
