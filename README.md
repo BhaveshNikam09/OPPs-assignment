@@ -3,7 +3,7 @@
 This repository contains two Jupyter notebooks focusing on key concepts and practical implementations of Object-Oriented Programming (OOP) in Python.
 
 ### Files Overview
-#### . 01_july_OOPs.ipynb
+####  01_july_OOPs.ipynb
 
     This notebook introduces fundamental OOP concepts, including:
     
@@ -13,7 +13,8 @@ This repository contains two Jupyter notebooks focusing on key concepts and prac
     
     Attributes and Methods: Differentiating instance and class variables and exploring methods.
     
- ##### Practical Implementations:
+   ##### Practical Implementations:
+   
     Designing a Book class for a library system.
     
     Implementing a Ticket class for a booking system.
@@ -32,7 +33,7 @@ This repository contains two Jupyter notebooks focusing on key concepts and prac
      
      Using the super Keyword: Demonstrations of calling parent class methods.
  
- ##### Practical Implementations:
+   ##### Practical Implementations:
  
    Vehicle and Car classes showcasing inheritance.
    
